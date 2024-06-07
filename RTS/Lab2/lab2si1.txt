@@ -1,0 +1,2 @@
+app 1 lab1: arrows for main, observer, observable
+seq diag: specify what the run() does
